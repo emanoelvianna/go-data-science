@@ -10,6 +10,7 @@ Abaixo, segue uma relação de blogs, podcasts e outras fontes relacionado a com
 - [Data Hackers](https://medium.com/data-hackers)
 - [Paulo Vasconcellos](https://paulovasconcellos.com.br)
 - [Machina Sapiens](https://medium.com/machina-sapiens)
+- [Stats and R](https://www.statsandr.com/blog/)
 
 ## Bibliografia
 
