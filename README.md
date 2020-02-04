@@ -5,6 +5,10 @@
 
 Abaixo, segue uma relação de blogs, podcasts e outras fontes relacionado a comunidade data science.
 
+### Cursos
+
+- [Coursera](https://pt.coursera.org/specializations/jhu-data-science)
+
 ### Blogs
 
 - [Data Hackers](https://medium.com/data-hackers)
