@@ -24,7 +24,7 @@ Abaixo você vai encontrar alguns artigos e livros interessantes
 
 - Data Science do zero: Primeiras Regras com o Python, 1ª edição. Joel Grus. 2016.
 
-- R Para Data Science, 1ª edição.  Hadley Wickham, Garrett Grolemund. 2019
+- [R Para Data Science, 1ª edição.  Hadley Wickham, Garrett Grolemund. 2019](https://r4ds.had.co.nz/)
 
 - Estatística Prática para Cientistas de Dados: 50 Conceitos Essenciais, 1ª edição. Andrew Bruce, Peter Bruce. 2019.
 
