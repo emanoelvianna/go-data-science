@@ -1,5 +1,5 @@
 # go-data-science
-:school_satchel: :rocket: Este repositório tem como objetivo apresentar a trilha de estudos da qual segui para a carreira de data science
+:school_satchel: :rocket: Este repositório tem como objetivo apresentar a trilha de estudos da qual segui para a carreira de data science.
 
 ## Comunidade
 
@@ -22,7 +22,13 @@ Abaixo você vai encontrar alguns artigos e livros interessantes
 
 ### Artigos
 
+#### Introdução
+
+- [Os Três Tipos de Aprendizado de Máquina](https://lamfo-unb.github.io/2017/07/27/tres-tipos-am/)
 - [Introdução aos principais algoritmos](https://medium.com/@cristianofurquim/10-algoritmos-de-aprendizagem-de-m%C3%A1quinas-machine-learning-que-voc%C3%AA-precisa-saber-c49f9eefe319)
+- [Algoritmos de Aprendizagem de Máquina: qual deles escolher?](https://medium.com/machina-sapiens/algoritmos-de-aprendizagem-de-m%C3%A1quina-qual-deles-escolher-67040ad68737)
+
+#### Principais Algoritmos 
 
 - Algoritmo Floresta Aleatória: [Introdução](https://medium.com/machina-sapiens/o-algoritmo-da-floresta-aleat%C3%B3ria-3545f6babdf8); [Implementação 1](https://www.mql5.com/pt/articles/3856); [Implementação 2](https://www.vooo.pro/insights/um-tutorial-completo-sobre-a-modelagem-baseada-em-tree-arvore-do-zero-em-r-python/)
 
