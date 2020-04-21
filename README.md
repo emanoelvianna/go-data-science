@@ -20,6 +20,12 @@ Abaixo, segue uma relação de blogs, podcasts e outras fontes relacionado a com
 
 Abaixo você vai encontrar alguns artigos e livros interessantes
 
+### Artigos
+
+- [Introdução aos principais algoritmos](https://medium.com/@cristianofurquim/10-algoritmos-de-aprendizagem-de-m%C3%A1quinas-machine-learning-que-voc%C3%AA-precisa-saber-c49f9eefe319)
+
+- Algoritmo Floresta Aleatória: [Introdução](https://medium.com/machina-sapiens/o-algoritmo-da-floresta-aleat%C3%B3ria-3545f6babdf8); [Implementação 1](https://www.mql5.com/pt/articles/3856); [Implementação 2](https://www.vooo.pro/insights/um-tutorial-completo-sobre-a-modelagem-baseada-em-tree-arvore-do-zero-em-r-python/)
+
 ### Livros
 
 - Data Science do zero: Primeiras Regras com o Python, 1ª edição. Joel Grus. 2016.
