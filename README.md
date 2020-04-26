@@ -32,6 +32,10 @@ Abaixo você vai encontrar alguns artigos e livros interessantes
 
 - Algoritmo Floresta Aleatória: [Introdução](https://medium.com/machina-sapiens/o-algoritmo-da-floresta-aleat%C3%B3ria-3545f6babdf8); [Implementação 1](https://www.mql5.com/pt/articles/3856); [Implementação 2](https://www.vooo.pro/insights/um-tutorial-completo-sobre-a-modelagem-baseada-em-tree-arvore-do-zero-em-r-python/)
 
+#### Aplicação da técnica de ajuste de modelos
+
+- Hiperparâmetros: [Introdução](https://medium.com/data-hackers/otimizando-os-hiperpar%C3%A2metros-621de5e9be37)
+
 ### Livros
 
 - Data Science do zero: Primeiras Regras com o Python, 1ª edição. Joel Grus. 2016.
