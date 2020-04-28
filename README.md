@@ -30,7 +30,7 @@ Abaixo você vai encontrar alguns artigos e livros interessantes
 
 #### Principais Algoritmos 
 
-- Algoritmo Floresta Aleatória: [Introdução](https://medium.com/machina-sapiens/o-algoritmo-da-floresta-aleat%C3%B3ria-3545f6babdf8); [Implementação 1](https://www.mql5.com/pt/articles/3856); [Implementação 2](https://www.vooo.pro/insights/um-tutorial-completo-sobre-a-modelagem-baseada-em-tree-arvore-do-zero-em-r-python/)
+- Algoritmo Floresta Aleatória: [Introdução](https://medium.com/machina-sapiens/o-algoritmo-da-floresta-aleat%C3%B3ria-3545f6babdf8); [Introdução 2](http://web.tecnico.ulisboa.pt/ana.freitas/bioinformatics.ath.cx/bioinformatics.ath.cx/indexf23d.html?id); [Implementação 1](https://www.mql5.com/pt/articles/3856); [Implementação 2](https://www.vooo.pro/insights/um-tutorial-completo-sobre-a-modelagem-baseada-em-tree-arvore-do-zero-em-r-python/)
 
 #### Aplicação da técnica de ajuste de modelos
 
