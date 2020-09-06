@@ -1,6 +1,10 @@
 # go-data-science
 :school_satchel: :rocket: Este repositório tem como objetivo apresentar a trilha de estudos da qual segui para a carreira de data science.
 
+## Disciplinas 
+
+- [Mineração de Dados](http://professor.ufabc.edu.br/~ronaldo.prati/DataMining/)
+
 ## Comunidade
 
 Abaixo, segue uma relação de blogs, podcasts e outras fontes relacionado a comunidade data science.
