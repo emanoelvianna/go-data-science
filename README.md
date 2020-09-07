@@ -22,6 +22,10 @@ Abaixo, segue uma relação de blogs, podcasts e outras fontes relacionado a com
 - [Stats and R](https://www.statsandr.com/blog/)
 - [LAMFO](https://lamfo-unb.github.io/)
 
+## Professores/Pesquisadores
+
+- [Fabricio França](https://folivetti.github.io)
+
 ## Bibliografia
 
 Abaixo você vai encontrar alguns artigos e livros interessantes
