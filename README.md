@@ -34,12 +34,15 @@ Abaixo você vai encontrar alguns artigos e livros interessantes
 
 #### Introdução
 
+- [Introdução ao Aprendizado de Máquina](https://medium.com/@avinicius.adorno/introdu%C3%A7%C3%A3o-a-aprendizado-de-m%C3%A1quina-e39ec5ef459b)
 - [Aprendizado de máquina](https://stanford.edu/~shervine/l/pt/teaching/cs-229/)
 - [Os Três Tipos de Aprendizado de Máquina](https://lamfo-unb.github.io/2017/07/27/tres-tipos-am/)
 - [Introdução aos principais algoritmos](https://medium.com/@cristianofurquim/10-algoritmos-de-aprendizagem-de-m%C3%A1quinas-machine-learning-que-voc%C3%AA-precisa-saber-c49f9eefe319)
 - [Algoritmos de Aprendizagem de Máquina: qual deles escolher?](https://medium.com/machina-sapiens/algoritmos-de-aprendizagem-de-m%C3%A1quina-qual-deles-escolher-67040ad68737)
 - [Entendendo o que é Matriz de Confusão com Python](https://medium.com/data-hackers/entendendo-o-que-%C3%A9-matriz-de-confus%C3%A3o-com-python-114e683ec509)
 - [O que são classificadores ensemble?](https://lamfo-unb.github.io/2017/09/27/BaggingVsBoosting/)
+- [Trabalhando com classes desbalanceadas em problemas Machine Learning](https://medium.com/@tatianaesc/trabalhando-com-classes-desbalanceadas-em-problemas-machine-learning-29ee8db4a049)
+- [Detectando Fraudes Financeiras Usando Aprendizado de Máquina: Ganhando a Guerra Contra Dados Desbalanceados](https://medium.com/ensina-ai/detectando-fraudes-financeiras-usando-aprendizado-de-m%C3%A1quina-ganhando-a-guerra-contra-dados-3280893d09cb)
 
 #### Principais Algoritmos 
 
