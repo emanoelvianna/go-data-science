@@ -43,6 +43,7 @@ Abaixo você vai encontrar alguns artigos e livros interessantes
 - [O que são classificadores ensemble?](https://lamfo-unb.github.io/2017/09/27/BaggingVsBoosting/)
 - [Trabalhando com classes desbalanceadas em problemas Machine Learning](https://medium.com/@tatianaesc/trabalhando-com-classes-desbalanceadas-em-problemas-machine-learning-29ee8db4a049)
 - [Detectando Fraudes Financeiras Usando Aprendizado de Máquina: Ganhando a Guerra Contra Dados Desbalanceados](https://medium.com/ensina-ai/detectando-fraudes-financeiras-usando-aprendizado-de-m%C3%A1quina-ganhando-a-guerra-contra-dados-3280893d09cb)
+- [Avaliação de Métodos para Seleção de Atributos Importantes para Aprendizado de Máquina Supervisionado no Processo de Mineração de Dados](http://sites.labic.icmc.usp.br/aparmezan/publications/pdf/BIBLIOTECA_000_RT_002.pdf)
 
 #### Principais Algoritmos 
 
