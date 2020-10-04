@@ -35,6 +35,7 @@ Abaixo você vai encontrar alguns artigos e livros interessantes
 #### Introdução
 
 - [Introdução ao Aprendizado de Máquina](https://medium.com/@avinicius.adorno/introdu%C3%A7%C3%A3o-a-aprendizado-de-m%C3%A1quina-e39ec5ef459b)
+- [Aprendizado de Máquina Aprendizado de Máquina Conceitos e Definições](http://dcm.ffclrp.usp.br/~augusto/teaching/ami/AM-I-Conceitos-Definicoes.pdf)
 - [Aprendizado de máquina](https://stanford.edu/~shervine/l/pt/teaching/cs-229/)
 - [Os Três Tipos de Aprendizado de Máquina](https://lamfo-unb.github.io/2017/07/27/tres-tipos-am/)
 - [Introdução aos principais algoritmos](https://medium.com/@cristianofurquim/10-algoritmos-de-aprendizagem-de-m%C3%A1quinas-machine-learning-que-voc%C3%AA-precisa-saber-c49f9eefe319)
