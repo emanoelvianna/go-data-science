@@ -63,3 +63,5 @@ Abaixo você vai encontrar alguns artigos e livros interessantes
 - Estatística Prática para Cientistas de Dados: 50 Conceitos Essenciais, 1ª edição. Andrew Bruce, Peter Bruce. 2019.
 
 - [Introdução à Ciência de Dados; Pedro A. Morettin, Julio M. Singer](hhttps://www.ime.usp.br/~jmsinger/MorettinSinger/cdados2020jun21.pdf)
+
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
