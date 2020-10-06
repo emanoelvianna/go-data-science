@@ -64,4 +64,4 @@ Abaixo você vai encontrar alguns artigos e livros interessantes
 
 - [Introdução à Ciência de Dados; Pedro A. Morettin, Julio M. Singer](hhttps://www.ime.usp.br/~jmsinger/MorettinSinger/cdados2020jun21.pdf)
 
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Python Data Science Handbook, Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
