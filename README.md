@@ -66,3 +66,5 @@ Abaixo você vai encontrar alguns artigos e livros interessantes
 - [Introdução à Ciência de Dados; Pedro A. Morettin, Julio M. Singer](hhttps://www.ime.usp.br/~jmsinger/MorettinSinger/cdados2020jun21.pdf)
 
 - [Python Data Science Handbook, Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+- [Neural Networks and Deep Learning, Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
