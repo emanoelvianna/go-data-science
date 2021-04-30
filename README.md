@@ -57,6 +57,8 @@ Abaixo você vai encontrar alguns artigos e livros interessantes
 
 ### Livros
 
+- [Resolução de Problemas com Algoritmos e Estruturas de Dados usando Python](https://panda.ime.usp.br/panda/static/pythonds_pt/index.html)
+
 - Data Science do zero: Primeiras Regras com o Python, 1ª edição. Joel Grus. 2016.
 
 - [R Para Data Science, 1ª edição.  Hadley Wickham, Garrett Grolemund. 2019](https://r4ds.had.co.nz/)
