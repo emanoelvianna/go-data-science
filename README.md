@@ -13,6 +13,7 @@ Abaixo, segue uma relação de blogs, podcasts e outras fontes relacionado a com
 
 - [Coursera](https://pt.coursera.org/specializations/jhu-data-science)
 - [Didática Tech - Curso Introdução a Machine Learning](https://www.youtube.com/watch?v=ID5Ui22F8HQ&list=PLyqOvdQmGdTSqkutrKDaVJlEv-ui1MyK4)
+- [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
 
 ### Blogs
 
