@@ -47,6 +47,8 @@ Abaixo você vai encontrar alguns artigos e livros interessantes
 - [Detectando Fraudes Financeiras Usando Aprendizado de Máquina: Ganhando a Guerra Contra Dados Desbalanceados](https://medium.com/ensina-ai/detectando-fraudes-financeiras-usando-aprendizado-de-m%C3%A1quina-ganhando-a-guerra-contra-dados-3280893d09cb)
 - [Avaliação de Métodos para Seleção de Atributos Importantes para Aprendizado de Máquina Supervisionado no Processo de Mineração de Dados](http://sites.labic.icmc.usp.br/aparmezan/publications/pdf/BIBLIOTECA_000_RT_002.pdf)
 - [A comparative study of decision tree ID3 and C4.5](https://saiconference.com/Downloads/SpecialIssueNo10/Paper_3-A_comparative_study_of_decision_tree_ID3_and_C4.5.pdf)
+- [Keep it simple! How to understand Gradient Descent algorithm](https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html)
+- [5 Concepts You Should Know About Gradient Descent and Cost Function](https://www.kdnuggets.com/2020/05/5-concepts-gradient-descent-cost-function.html)
 
 #### Principais Algoritmos 
 
